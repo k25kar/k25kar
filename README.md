@@ -1,13 +1,17 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=KARTHIK&fontColor=ffffff&fontSize=48&font=geist&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=68&descSize=16"/>
+<img src="./k25kar.png" width="100%" alt="Banner"/>
+
+<br><br>
+
+<h1 style="font-size:56px; border:none;">
+WELCOME TO KARTHIK'S GITHUB
+</h1>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code;AI+and+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+learning+something+new"/>
-
-</div>
 
 ---
 
