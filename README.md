@@ -1,18 +1,108 @@
-# 💫 About Me:
-🔭 I’m currently working on Full-Stack Projects<br>👯 I’m looking to collaborate on AI/ML Projects<br>🤝 I’m looking for help with Advanced algorithms and optimization techniques<br>🌱 I’m currently learning OpenCV, Deep Learning<br>💬 Ask me about full-stack web dev and ui/ux design<br>⚡ Fun fact: Love going crazy on ui animations ;)
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=k25kar&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=k25kar&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=k25kar&theme=gruvbox_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=180&section=header&text=KARTHIK&fontColor=ffffff&fontSize=48&font=geist&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=68&descSize=16"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=k25kar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+useful+things+with+code;AI+and+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+learning+something+new"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=k25kar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Computer Science student at **NIT Surat** interested in building software that combines engineering, artificial intelligence, and practical problem solving.
+
+I enjoy creating products, experimenting with new technologies, and turning ideas into usable applications.
+
+---
+
+## Current Focus
+
+- AI/ML
+- Software Development
+- System Design
+- UI/UX
+- Design & Animation
+
+---
+
+## Selected Work
+
+### FlightCast
+Flight delay prediction system using machine learning, interactive visualizations, and a desktop interface.
+
+### HelperBuddy
+A service marketplace platform built with Next.js, TypeScript, MongoDB, and Razorpay integration.
+
+### BHARAT
+A tourism platform showcasing the cultural heritage and destinations of India.
+
+### Bus Management System
+Full-stack web application developed using PHP, MySQL, HTML, CSS, and JavaScript.
+
+---
+
+## Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nextjs,nodejs,mongodb,mysql,git,github,linux,vscode&theme=light"/>
+
+</div>
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=k25kar&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k25kar&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3"/>
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=k25kar&bg_color=000000&color=ffffff&line=8a8a8a&point=ffffff&hide_border=true"/>
+
+</div>
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="https://github.com/k25kar">
+  <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+building useful things,
+learning continuously,
+and solving interesting problems.
+````
+
+</div>
