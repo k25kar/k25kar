@@ -59,11 +59,11 @@ I enjoy creating products, experimenting with new technologies, and turning idea
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=k25kar&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k25kar&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=k25kar&theme=dark&hide_border=false&background=1a1a1a" alt="GitHub Streak"/>
 
 </div>
+
+
 
 ---
 
