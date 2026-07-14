@@ -1,25 +1,37 @@
 <div align="center">
 
-<img src="./k25kar.png" width="100%" alt="Banner"/>
+<img src="./assets/k25kar.png" width="100%" alt="Banner"/>
 
 <br><br>
 
 <h1 style="font-size:56px; border:none;">
-WELCOME TO KARTHIK'S GITHUB
+Welcome to Karthik's Github
 </h1>
 
 </div>
 
 <br>
 
-
 ---
 
 ## About
 
+<table>
+<tr>
+<td width="60%" style="border:none; padding-right:30px;">
+
 Computer Science student at **NIT Surat** interested in building software that combines engineering, artificial intelligence, and practical problem solving.
 
 I enjoy creating products, experimenting with new technologies, and turning ideas into usable applications.
+
+</td>
+<td width="40%" style="border:none; vertical-align:middle;">
+
+<img src="./assets/music video animation GIF by mattisdovier.gif" width="100%" alt="Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -33,27 +45,11 @@ I enjoy creating products, experimenting with new technologies, and turning idea
 
 ---
 
-## Selected Work
-
-### FlightCast
-Flight delay prediction system using machine learning, interactive visualizations, and a desktop interface.
-
-### HelperBuddy
-A service marketplace platform built with Next.js, TypeScript, MongoDB, and Razorpay integration.
-
-### BHARAT
-A tourism platform showcasing the cultural heritage and destinations of India.
-
-### Bus Management System
-Full-stack web application developed using PHP, MySQL, HTML, CSS, and JavaScript.
-
----
-
 ## Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,react,nextjs,nodejs,mongodb,mysql,git,github,linux,vscode&theme=light"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,nextjs,nodejs,mongodb,mysql,postgres,git,github&theme=dark"/>
 
 </div>
 
@@ -89,24 +85,13 @@ Full-stack web application developed using PHP, MySQL, HTML, CSS, and JavaScript
   <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/karthik-suryanarayanan-11a261239">
   <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:s.karthik.suryanarayanan@gmail.com">
   <img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
-
-```text
-building useful things,
-learning continuously,
-and solving interesting problems.
-````
-
-</div>
